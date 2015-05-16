@@ -1,6 +1,5 @@
 ---
 layout: page
-title: JimYong's Home Page
 permalink: /
 ---
 121212

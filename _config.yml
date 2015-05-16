@@ -1,5 +1,5 @@
 # Site settings
-title:       JimYong
+title:       JimYong's Home Page
 email:       jimyong88@gmail.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
@@ -19,7 +19,7 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username: jimyong1988
 stackoverflow_id:
 twitter_username: jimyong
