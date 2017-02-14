@@ -1,7 +1,7 @@
 # Site settings
 title:       JimYong's Home Page
-email:       jimyong88@gmail.com
-author:      John Otander
+email:       jimyong88 dot gmail.com
+author:      Jim Yong
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://jimyong.com"
@@ -20,7 +20,7 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: true
-github_username: jimyong1988
+github_username: jimyong88
 stackoverflow_id:
 twitter_username: jimyong
 google_plus_id:
@@ -28,6 +28,8 @@ linkedin_username:
 bitcoin_url:
 paypal_url:
 flattr_button:
+wechat: iamjimyong
+facebook: jimyong88
 
 # Post sharing icons
 show_sharing_icons: false
@@ -45,7 +47,6 @@ share_hackernews: false
 
 # Build settings
 markdown:     kramdown
-pygments: true
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
