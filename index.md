@@ -8,4 +8,4 @@ Life is short, you need Python.
 * [Twitter](https://twitter.com/{{ site.twitter_username }})
 * WeChat: {{ site.wechat }}
 * [Facebook](https://www.facebook.com/{{ site.facebook }})
-* Email: {{email}}
+* Email: {{site.email}}
